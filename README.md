@@ -19,8 +19,8 @@
 * Python ( 3.10, 3.12 で動作確認 )
 
 ## ■ ダウンロード
-|**Ver.1.00**|https://github.com/phanto-jp/PDF_ChangeFont/releases/PDF_ChangeFont_v1.0.0.zip|
-|---|---|
+* **[Ver.1.00](https://github.com/phanto-jp/PDF_ChangeFont/releases/tag/v1.0.0)**  
+リンク先の **PDF_ChangeFont_v1.0.0.zip** をダウンロード。
 
 ## ■ セットアップ
 
